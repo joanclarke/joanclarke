@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joanclarke
-- 👀 I’m a Web Developer.
+- 👀 I’m a Front End Web Developer.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects that will help expand my skills in JavaScript, React, and Web Development.
 - 📫 How to reach me: joanclarke100@gmail.com or https://www.linkedin.com/in/clarkejoan/
